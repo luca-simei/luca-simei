@@ -15,7 +15,4 @@
 
 $~$
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=luca-simei&theme=dark&show_icons=true&locale=en" alt="luca-simei" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=luca-simei&theme=dark" alt="luca-simei" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luca-simei&theme=dark&show_icons=true&locale=en" alt="luca-simei" /></p>
