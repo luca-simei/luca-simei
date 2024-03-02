@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science at PoliMi**
 
-- 📫 How to reach me **in/luca-simei-73b444298**
+- 📫 How to reach me **luca.simei15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
