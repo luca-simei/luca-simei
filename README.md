@@ -20,4 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luca-simei&show_icons=true&locale=en" alt="luca-simei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-simei&" alt="luca-simei" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-simei&#gh-light-mode-only" alt="luca-simei" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luca-simei&theme=dark#gh-dark-mode-only" alt="luca-simei" /></p>
